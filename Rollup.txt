@@ -1,0 +1,7 @@
+Layer 2 rollup loaded on Ehtereum's chain for handling transactions off-chain and only settling final states on-chain.
+This will help us to reduces network transaction fees and also providing faster transaction throughput when compared to Layer 1.
+If the transacation throughput is high then a block can hold large number of transactions.
+Transactions on Layer 2 can be significantly cheaper than on Ethereum's mainnet, reducing the cost of minting and transferring NFTs.
+Layer 2 solutions process transactions more rapidly, improving the user experience by providing immediate feedback and interactions.
+
+Deploying the Dinosaur NFT smart contract on a Layer 2 is mitigating some of its inherent limitations like high gas costs and low throughput. This is particularly beneficial for applications that require frequent and cost-effective interactions with the blockchain.
